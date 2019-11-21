@@ -20,5 +20,7 @@ This repository is to provide access to
 1. [001 - Introduction](https://youtu.be/-F1Maa3PWc0)
 2. [002 - Installing Python and Environment Setup](https://youtu.be/KuMqkKWBexY)
 3. [003 - Installing PyCharm](https://youtu.be/LwjxKnuI4Po)
+4. [004 - Basic Syntax](https://youtu.be/vbM6WeqMh74)
+   * [Code - Basic Syntax](../Tutorial%20Code/004_BasicSyntax.ipynb)
 
 more coming soon...
