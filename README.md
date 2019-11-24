@@ -1,13 +1,15 @@
+## [Please Subscribe. Click here](https://www.youtube.com/c/Ignani?sub_confirmation=1)
+
 # Learn Python - A Full Course for Beginners
 Source Code and Samples from the tutorial videos
 
 This course if for Beginners who would like to learn Python programming. This course also contains a lot of examples, real life samples.
 
-[You can find the Videos for here ](https://www.youtube.com/playlist?list=PL5gdMNl42qyn7CjNCnsV7CuQ6S-I9eKJY)
+### [You can find the Videos for here ](https://www.youtube.com/playlist?list=PL5gdMNl42qyn7CjNCnsV7CuQ6S-I9eKJY)
 
 After this course you can start with [FastAPI - Python](https://www.youtube.com/playlist?list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - *Learn to develop Web based application & RestAPI using Python*
 
-[Link to our Telegram channel](https://t.me/python_resources_iGnani) - You can find a lot of resources on Python here
+### [Link to our Telegram channel](https://t.me/python_resources_iGnani) - You can find a lot of resources on Python here
 
 [For video tutorials and a lot of other resources, this is your subscription gateway](https://www.youtube.com/c/Ignani?sub_confirmation=1)
 
@@ -21,6 +23,9 @@ This repository is to provide access to
 2. [002 - Installing Python and Environment Setup](https://youtu.be/KuMqkKWBexY)
 3. [003 - Installing PyCharm](https://youtu.be/LwjxKnuI4Po)
 4. [004 - Basic Syntax](https://youtu.be/vbM6WeqMh74)
-   * [Code - Basic Syntax](../Tutorial%20Code/004_BasicSyntax.ipynb)
+   * [Code - Basic Syntax](../master/Tutorial%20Code/004_BasicSyntax.ipynb)
+5. [005 - Variables](https://youtu.be/420iQbWOAuY)
+   * [Code - Variables](../master/Tutorial%20Code/005_VariablesInPython.ipynb)
+   * [Assignment - Variables](../master/Tutorial%20Code/005_Variables_Assignment.ipynb)
 
 more coming soon...
