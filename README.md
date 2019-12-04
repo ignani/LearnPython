@@ -1,4 +1,4 @@
-## [Please Subscribe. Click here](https://www.youtube.com/c/Ignani?sub_confirmation=1)
+## [Please Subscribe. Click here for More](https://www.youtube.com/c/Ignani?sub_confirmation=1)
 
 # Learn Python - A Full Course for Beginners
 Source Code and Samples from the tutorial videos
