@@ -14,6 +14,8 @@ After this course you can start with [FastAPI - Python](https://www.youtube.com/
 
 [For video tutorials and a lot of other resources, this is your subscription gateway](https://www.youtube.com/c/Ignani?sub_confirmation=1)
 
+To get answers to your Questions...[CLICK HERE](https://t.me/joinchat/Ncab1Em63w9djddKcyfwzg)
+
 This repository is to provide access to 
 * The code demonstrated in the videos
 * Jupyter Notebooks with Python problems for users to solve
@@ -28,5 +30,8 @@ This repository is to provide access to
 5. [005 - Variables](https://youtu.be/420iQbWOAuY)
    * [Code - Variables](../master/Tutorial%20Code/005_VariablesInPython.ipynb)
    * [Assignment - Variables](../master/Tutorial%20Code/005_Variables_Assignment.ipynb)
+6. [006 - Datatypes in Python](https://youtu.be/eFGeIpZPtBk)
+   * [Code - Variables](../master/Tutorial%20Code/006_DataTypesInPython.ipynb)
+   * [Assignment - Variables](../master/Tutorial%20Code/006_DataTypes_Assignment.ipynb)
 
 more coming soon...
