@@ -34,7 +34,7 @@ This repository is to provide access to
    * [Code - Variables](../master/Tutorial%20Code/005_VariablesInPython.ipynb)
    * [Assignment - Variables](../master/Tutorial%20Code/005_Variables_Assignment.ipynb)
 6. [006 - Datatypes in Python](https://youtu.be/eFGeIpZPtBk)
-   * [Code - Variables](../master/Tutorial%20Code/006_DataTypesInPython.ipynb)
-   * [Assignment - Variables](../master/Tutorial%20Code/006_DataTypes_Assignment.ipynb)
+   * [Code - Datatypes in Python](../master/Tutorial%20Code/006_DataTypesInPython.ipynb)
+   * [Assignment - Datatypes in Python](../master/Tutorial%20Code/006_DataTypes_Assignment.ipynb)
 
 more coming soon...
