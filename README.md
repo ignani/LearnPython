@@ -28,6 +28,8 @@ This repository is to provide access to
 3. [003 - Installing PyCharm](https://youtu.be/LwjxKnuI4Po)
 4. [004 - Basic Syntax](https://youtu.be/vbM6WeqMh74)
    * [Code - Basic Syntax](../master/Tutorial%20Code/004_BasicSyntax.ipynb)
+   * [Test 004.1 - Basic Syntax](http://bit.ly/2LWLkQU)
+   * [Test 004.2 - Basic Syntax](http://bit.ly/36H1lTb)
 5. [005 - Variables](https://youtu.be/420iQbWOAuY)
    * [Code - Variables](../master/Tutorial%20Code/005_VariablesInPython.ipynb)
    * [Assignment - Variables](../master/Tutorial%20Code/005_Variables_Assignment.ipynb)
