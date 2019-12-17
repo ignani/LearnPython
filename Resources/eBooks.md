@@ -48,7 +48,7 @@
 44. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)[ - Bradley N. Miller and David L. Ranum](http://bit.ly/2EcgBuQ)
 45. [Program Arcade Games With Python And Pygame (3.3)](http://programarcadegames.com)
 46. [Programming Computer Vision with Python (PDF)](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf)
-47. [Python Data Science Handbook](Python Data Science Handbook)[ - Jake VanderPlas (HTML, Jupyter Notebooks)](http://bit.ly/2EcgBuQ)
+47. [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)[ - Jake VanderPlas (HTML, Jupyter Notebooks)](http://bit.ly/2EcgBuQ)
 48. [Python for Everybody Exploring Data Using Python 3](https://www.py4e.com/html3/)[ - Charles Severance (PDF, EPUB, HTML)](http://bit.ly/2EcgBuQ)
 49. [Python for you and me (3.x)](https://pymbook.readthedocs.io/en/py3/)
 50. [Python in Education (email address requested, not required)](https://www.oreilly.com/library/view/python-in-education/9781492037880/)
