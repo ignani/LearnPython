@@ -10,8 +10,8 @@ This course if for Beginners who would like to learn Python programming. This co
 
 After this course you can start with [FastAPI - Python](https://www.youtube.com/playlist?list=PL5gdMNl42qynpY-o43Jk3evfxEKSts3HS) - *Learn to develop Web based application & RestAPI using Python*
 
-### [Link to our Telegram channel](https://t.me/python_resources_iGnani) - You can find a lot of resources on Python here
-
+### [Link to our Telegram channel](https://t.me/joinchat/AAAAAFRTkvlaUGTEbJ5m1g) - You can find a lot of resources on Python here
+### [Join our Python Community](https://t.me/joinchat/Ncab1Em63w9djddKcyfwzg )
 [For video tutorials and a lot of other resources, this is your subscription gateway](https://www.youtube.com/c/Ignani?sub_confirmation=1)
 
 To get answers to your Questions...[CLICK HERE](https://t.me/joinchat/Ncab1Em63w9djddKcyfwzg)
@@ -36,5 +36,7 @@ This repository is to provide access to
 6. [006 - Datatypes in Python](https://youtu.be/eFGeIpZPtBk)
    * [Code - Datatypes in Python](../master/Tutorial%20Code/006_DataTypesInPython.ipynb)
    * [Assignment - Datatypes in Python](../master/Tutorial%20Code/006_DataTypes_Assignment.ipynb)
+7. [007 - Input & Output](https://youtu.be/a305RvHHlLY)
+   * [Code - Datatypes in Python](../master/Tutorial%20Code/007_InputAndOutput.ipynb)
 
-more coming soon...
+In our next class we will be covering Operators
