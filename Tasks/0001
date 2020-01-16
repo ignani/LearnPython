@@ -1,0 +1,11 @@
+Accept a number from the user, and return the value in reverse order.
+Levels below : (by iGnani ---- Telegram: @python_programmers_club)
+a. Input: 123456        --- Output: 654321
+b. Input: -987654       --- output: -456789
+c. Input: 12.34         --- output: 21.34
+d. Input: -12.34        --- output: -21.34
+e. Input: abc (NonNum)  --- output: Only Number accepted!
+f. Input: 12,34,567     --- output: 76,54,321
+g. Input: -12,34,567    --- output: -76,54,321
+h. Input: 12,34,567.89  --- output: 76,54,321.98
+i. Input: -12,34,567.89 --- output: -76,54,321.98
